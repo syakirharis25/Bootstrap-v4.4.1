@@ -22,8 +22,8 @@ The most prominent components of Bootstrap are its layout components, as they af
 Official Bootstrap website : https://getbootstrap.com
 
 **_Sass Developers_** <br />
-Sass was developed by Mark Otto : https://twitter.com/mdo, https://markdotto.com
-Sass was developed by Jacob Thornton :
+Sass was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
+Sass was developed by Jacob Thornton : https://github.com/fat <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
