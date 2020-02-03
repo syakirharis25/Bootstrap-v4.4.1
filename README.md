@@ -21,8 +21,8 @@ The most prominent components of Bootstrap are its layout components, as they af
 
 <a name="references"></a>
 ## 2. Official references websites.
-Official Bootstrap website : https://getbootstrap.com
-Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/
+Official Bootstrap website : https://getbootstrap.com <br />
+Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
 **_Bootstrap Developers_** <br />
 Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
