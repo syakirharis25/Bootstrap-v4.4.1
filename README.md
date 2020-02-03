@@ -29,6 +29,7 @@ Stack Overflow is a question and answer site : https://stackoverflow.com <br />
 
 **_Bootstrap documentation by getbootstrap.com_** <br />
 Bootstrap Grid system by getbootstrap.com : https://getbootstrap.com/docs/4.0/layout/grid/ <br />
+Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/text/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
