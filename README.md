@@ -19,6 +19,11 @@ The most prominent components of Bootstrap are its layout components, as they af
 
 <a name="references"></a>
 ## 2. Official references websites.
+Official Bootstrap website : https://getbootstrap.com
+
+**_Sass Developers_** <br />
+Sass was developed by Mark Otto : https://twitter.com/mdo, https://markdotto.com
+Sass was developed by Jacob Thornton :
 
 <a name="github"></a>
 ## 3. GitHub notes.
