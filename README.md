@@ -58,7 +58,7 @@ To use Bootstrap, first copy and paste the following codes into `index.html' fil
 
 Refer to the official Bootstrap documentation for better explanation: https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
-Make sure you have internet connection to use the above Bootstrap codes. Refer to `How to Use Bootstrap Offline or Locally - Step By Step` YouTube video made by **_Reecry_**; https://www.youtube.com/watch?v=60F6paVpZCs for better explanation.
+Make sure you have internet connection to use the above Bootstrap codes.
 
 <a name="offline"></a>
 ## 4. Using Bootstrap in offline mode.
@@ -70,7 +70,7 @@ Find the location of the extracted `bootstrap.min.css` file inside the extracted
 
 Find the location of the extracted `bootstrap.min.js` file inside the extracted folder under `bootstrap-4.4.1-dist\bootstrap-4.4.1-dist\js`, drag and drop the `bootstrap.min.js` file into your active browser like Google Chrome or Mozilla Firefox browser. Copy and paste address shown on the address bar on your browser into your text file editor like Microsoft Visual Code.
 
-Example of the projectt HTML file with working offline mode Bootstrap.
+Example of the project HTML file with working offline mode Bootstrap.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -90,7 +90,7 @@ Example of the projectt HTML file with working offline mode Bootstrap.
 </html>
 ```
 
-Then refresh your bootstrap file on your browser to see whether it is working or not.
+Then refresh your bootstrap file on your browser to see whether it is working or not. Refer to `How to Use Bootstrap Offline or Locally - Step By Step` YouTube video made by **_Reecry_**; https://www.youtube.com/watch?v=60F6paVpZCs for better explanation.
 
 <a name="github"></a>
 ## 5. GitHub notes.
