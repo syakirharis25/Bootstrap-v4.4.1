@@ -5,7 +5,8 @@ My works related to Bootstrap v4.4.1
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Bootstrap starter index.html page.](#starter)
-4. [GitHub notes.](#github)
+4. [Using Bootstrap in offline mode.)(#offline)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -57,10 +58,42 @@ To use Bootstrap, first copy and paste the following codes into `index.html' fil
 
 Refer to the official Bootstrap documentation for better explanation: https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
-Make sure you have internet connection to use the above Bootstrap codes.
+Make sure you have internet connection to use the above Bootstrap codes. Refer to `How to Use Bootstrap Offline or Locally - Step By Step` YouTube video made by **_Reecry_**; https://www.youtube.com/watch?v=60F6paVpZCs for better explanation.
+
+<a name="offline"></a>
+## 4. Using Bootstrap in offline mode.
+To use Bootstrap in offline mode, go to https://getbootstrap.com/docs/4.4/getting-started/download/, under the heading `Compiled CSS and JS` click the **[ Download ]** button with purple border under the text `This doesn’t include documentation, source files, or any optional JavaScript dependencies (jQuery and Popper.js).`
+
+After downloaded the `bootstrap-4.4.1-dist.zip` file, extract it by right hand click your mouse and then click `Extract All...`, then hit **[ Enter ]** on your keyboard. 
+
+Find the location of the extracted `bootstrap.min.css` file inside the extracted folder under `bootstrap-4.4.1-dist\bootstrap-4.4.1-dist\css`, drag and drop the `bootstrap.min.css` file into your active browser like Google Chrome or Mozilla Firefox browser. Copy and paste address shown on the address bar on your browser into your text file editor like Microsoft Visual Code. 
+
+Find the location of the extracted `bootstrap.min.js` file inside the extracted folder under `bootstrap-4.4.1-dist\bootstrap-4.4.1-dist\js`, drag and drop the `bootstrap.min.js` file into your active browser like Google Chrome or Mozilla Firefox browser. Copy and paste address shown on the address bar on your browser into your text file editor like Microsoft Visual Code.
+
+Example of the projectt HTML file with working offline mode Bootstrap.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" type="text/css" href="file:///C:/Users/username/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.min.css">
+    <script type="text/javascript" src="file:///C:/Users/username/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+
+    <title>Offline Bootstrap mode</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+Then refresh your bootstrap file on your browser to see whether it is working or not.
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Bootstrap-v4.4.1.git
