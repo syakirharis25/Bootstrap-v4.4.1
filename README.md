@@ -5,7 +5,7 @@ My works related to Bootstrap v4.4.1
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Bootstrap starter index.html page.](#starter)
-4. [Using Bootstrap in offline mode.)(#offline)
+4. [Using Bootstrap in offline mode.](#offline)
 5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
