@@ -62,7 +62,7 @@ Make sure you have internet connection to use the above Bootstrap codes.
 
 <a name="offline"></a>
 ## 4. Using Bootstrap in offline mode.
-To use Bootstrap in offline mode, go to https://getbootstrap.com/docs/4.4/getting-started/download/, under the heading `Compiled CSS and JS` click the **[ Download ]** button with purple border under the text `This doesn’t include documentation, source files, or any optional JavaScript dependencies (jQuery and Popper.js).`
+To use Bootstrap in offline mode, go to https://getbootstrap.com/docs/4.4/getting-started/download/, under the heading `Compiled CSS and JS` click the **[ Download ]** button with purple line border under the text `This doesn’t include documentation, source files, or any optional JavaScript dependencies (jQuery and Popper.js).`
 
 After downloaded the `bootstrap-4.4.1-dist.zip` file, extract it by right hand click your mouse and then click `Extract All...`, then hit **[ Enter ]** on your keyboard. 
 
