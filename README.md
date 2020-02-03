@@ -57,6 +57,8 @@ To use Bootstrap, first copy and paste the following codes into `index.html' fil
 
 Refer to the official Bootstrap documentation for better explanation: https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
+Make sure you have internet connection to use the above Bootstrap codes.
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
