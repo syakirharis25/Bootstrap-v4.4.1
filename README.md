@@ -24,7 +24,13 @@ The most prominent components of Bootstrap are its layout components, as they af
 Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
-**_Bootstrap Developers_** <br />
+**_Bootstrap documentation by getbootstrap.com_** <br />
+Bootstrap Grid system by getbootstrap.com : https://getbootstrap.com/docs/4.0/layout/grid/ <br />
+
+**_Bootstrap documentation by w3schools.com_** <br />
+Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
+
+**_Bootstrap developers_** <br />
 Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
 Bootstrap was developed by Jacob Thornton : https://github.com/fat <br />
 
