@@ -154,7 +154,14 @@ y - for classes that set both *-top and *-bottom
 blank - for classes that set a margin or padding on all 4 sides of the element
 ```
 
-For example, **pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
+For example;
+**pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
+
+**px-5** means {**p**adding}{positive(+)**x**-axis}**-**{size-of-**5**} <br />
+
+**py-2** means {**p**adding}{positive(+)**y**-axis}**-**{size-of-**5**} <br />
+
+For better understanding what is x-axis and y-axis, refer to this YouTube video with the title `What are the X and Y axes?` made by **_Don't Memorise_** : https://www.youtube.com/watch?v=Tfm49rgvvDU
 
 The size can be from value 0 to 5 and auto. <br />
 
