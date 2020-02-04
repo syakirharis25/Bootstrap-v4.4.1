@@ -6,7 +6,8 @@ My works related to Bootstrap v4.4.1
 2. [Official references websites.](#references)
 3. [Bootstrap starter index.html page.](#starter)
 4. [Using Bootstrap in offline mode.](#offline)
-5. [GitHub notes.](#github)
+5. [The spacing classes in Bootstrap v4.4.1 .](#spacing)
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -122,8 +123,41 @@ Example of the project HTML file with working offline mode Bootstrap.
 
 Then refresh your bootstrap file on your browser to see whether it is working or not. Refer to `How to Use Bootstrap Offline or Locally - Step By Step` YouTube video made by **_Reecry_**; https://www.youtube.com/watch?v=60F6paVpZCs for better explanation.
 
+<a name="spacing"></a>
+## 5. The spacing classes in Bootstrap v4.4.1 .
+The Bootstrap 4 has built-in utility responsive classes for margin and padding that you may use easily in various elements to manage the spacing.<br />
+
+The classes are named using the format; <br /><br />
+
+For extra small devices i.e. xs:
+`{property}{sides}-{size}` <br /><br />
+
+For other devices/viewports [small (sm), medium (md), large (lg), and extra large (xl) ]:
+`{property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl` <br /><br />
+
+Where property is one of:
+```
+m - for classes that set margin
+p - for classes that set padding
+```
+
+Where sides is one of:
+```
+t - for classes that set margin-top or padding-top
+b - for classes that set margin-bottom or padding-bottom
+l - for classes that set margin-left or padding-left
+r - for classes that set margin-right or padding-right
+x - for classes that set both *-left and *-right
+y - for classes that set both *-top and *-bottom
+blank - for classes that set a margin or padding on all 4 sides of the element
+```
+
+For example, **pt-4** means {**p**adding}{**t**op}-{size-of-**4**}
+
+The size can be from value 0 to 5 and auto.
+
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Bootstrap-v4.4.1.git
