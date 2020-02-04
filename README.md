@@ -52,6 +52,7 @@ Bootstrap Shadows by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilit
 Bootstrap Colors by getbootstrap.com : https://getbootstrap.com/docs/4.3/utilities/colors/ <br />
 Bootstrap Display property by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/display/ <br />
 Bootstrap Forms property by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/forms/ <br />
+Bootstrap Input group property by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/input-group/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
