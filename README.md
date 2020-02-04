@@ -24,6 +24,9 @@ The most prominent components of Bootstrap are its layout components, as they af
 Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
+JQuery CDN : https://code.jquery.com/ <br />
+jQuery 3.x minified : https://code.jquery.com/jquery-3.4.1.min.js <br />
+
 **_Bootstrap text editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
 
