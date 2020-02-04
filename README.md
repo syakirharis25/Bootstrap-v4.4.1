@@ -152,7 +152,7 @@ y - for classes that set both *-top and *-bottom
 blank - for classes that set a margin or padding on all 4 sides of the element
 ```
 
-For example, **pt-4** means {**p**adding}{**t**op}-{size-of-**4**} <br />
+For example, **pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
 
 The size can be from value 0 to 5 and auto. <br />
 
