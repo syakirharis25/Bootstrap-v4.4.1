@@ -25,9 +25,11 @@ The most prominent components of Bootstrap are its layout components, as they af
 Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
+**_Bootstrap related online open sources_** <br />
 JQuery CDN : https://code.jquery.com/ <br />
 jQuery 3.x minified : https://code.jquery.com/jquery-3.4.1.min.js <br />
 lorem ipsum : https://loremipsum.io <br />
+Font Awesome : https://fontawesome.com <br />
 
 **_Bootstrap text editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
@@ -55,8 +57,9 @@ Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/boo
 Container-fluid vs .container : https://stackoverflow.com/questions/22262311/container-fluid-vs-container <br />
 find/generate npmjs integrity for bootstrap 4.3.1 : https://stackoverflow.com/questions/54994508/find-generate-npmjs-integrity-for-bootstrap-4-3-1 <br />
 
-**_Bootstrap articles_**
+**_Bootstrap related articles_**
 The spacing classes in Bootstrap 4 : https://www.jquery-az.com/bootstrap-margin-padding-classes-spacing-explained-5-examples/ <br />
+Sizing Icons by Font Awesome : https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons <br />
 
 **_Bootstrap developers_** <br />
 Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
