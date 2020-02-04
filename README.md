@@ -52,6 +52,7 @@ Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/boo
 
 **_Bootstrap questions and answers by Stack Overflow_** <br />
 Container-fluid vs .container : https://stackoverflow.com/questions/22262311/container-fluid-vs-container <br />
+find/generate npmjs integrity for bootstrap 4.3.1 : https://stackoverflow.com/questions/54994508/find-generate-npmjs-integrity-for-bootstrap-4-3-1 <br />
 
 **_Bootstrap articles_**
 The spacing classes in Bootstrap 4 : https://www.jquery-az.com/bootstrap-margin-padding-classes-spacing-explained-5-examples/ <br />
@@ -132,10 +133,10 @@ The Bootstrap 4 has built-in utility responsive classes for margin and padding t
 The classes are named using the format; <br />
 
 For extra small devices i.e. xs: <br />
-`{property}{sides}-{size}` <br />
+`{property}{sides}-{size/length}` <br />
 
 For other devices/viewports [small (sm), medium (md), large (lg), and extra large (xl) ]: <br />
-`{property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl` <br /><br />
+`{property}{sides}-{breakpoint}-{size/length} for sm, md, lg, and xl` <br /><br />
 
 Where property is one of: <br />
 ```
@@ -154,12 +155,16 @@ y - for classes that set both *-top and *-bottom
 blank - for classes that set a margin or padding on all 4 sides of the element
 ```
 
-For example;
+For example; <br />
 **pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
 
-**px-5** means {**p**adding}{positive(+)**x**-axis}**-**{size-of-**5**} <br />
+**mb-5** means {**m**argin}{**b**ottom}**-**{size-of-**5**} <br />
 
-**py-2** means {**p**adding}{positive(+)**y**-axis}**-**{size-of-**5**} <br />
+<img src="x-y axis.jpg" height="200"> <br />
+
+**px-5** means {**p**adding}{positive(+)**x**-axis}**-**{length-of-**5**} <br />
+
+**py-2** means {**p**adding}{positive(+)**y**-axis}**-**{length-of-**2**} <br />
 
 For better understanding what is x-axis and y-axis, refer to this YouTube video with the title `What are the X and Y axes?` made by **_Don't Memorise_** : https://www.youtube.com/watch?v=Tfm49rgvvDU
 
