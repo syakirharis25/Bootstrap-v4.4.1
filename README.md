@@ -26,6 +26,7 @@ Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-sta
 
 JQuery CDN : https://code.jquery.com/ <br />
 jQuery 3.x minified : https://code.jquery.com/jquery-3.4.1.min.js <br />
+lorem ipsum : https://loremipsum.io <br />
 
 **_Bootstrap text editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
