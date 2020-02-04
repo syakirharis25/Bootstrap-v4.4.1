@@ -50,6 +50,9 @@ Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/boo
 **_Bootstrap questions and answers by Stack Overflow_** <br />
 Container-fluid vs .container : https://stackoverflow.com/questions/22262311/container-fluid-vs-container <br />
 
+**_Bootstrap articles_**
+The spacing classes in Bootstrap 4 : https://www.jquery-az.com/bootstrap-margin-padding-classes-spacing-explained-5-examples/ <br />
+
 **_Bootstrap developers_** <br />
 Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
 Bootstrap was developed by Jacob Thornton : https://github.com/fat <br />
