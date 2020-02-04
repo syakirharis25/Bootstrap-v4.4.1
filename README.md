@@ -24,6 +24,9 @@ The most prominent components of Bootstrap are its layout components, as they af
 Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
+**_Bootstrap text editor_** <br />
+Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
+
 W3Schools Online Web Tutorials : https://www.w3schools.com <br />
 Stack Overflow is a question and answer site : https://stackoverflow.com <br />
 
