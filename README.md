@@ -162,6 +162,8 @@ blank - for classes that set a margin or padding on all 4 sides of the element
 For example; <br />
 **pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
 
+**pr-3** means {**p**adding}{**r**ight}**-**{size-of-**3**} <br />
+
 **mb-5** means {**m**argin}{**b**ottom}**-**{size-of-**5**} <br />
 
 <img src="x-y axis.jpg" height="200"> <br />
