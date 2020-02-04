@@ -52,6 +52,7 @@ Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/boo
 
 **_Bootstrap questions and answers by Stack Overflow_** <br />
 Container-fluid vs .container : https://stackoverflow.com/questions/22262311/container-fluid-vs-container <br />
+find/generate npmjs integrity for bootstrap 4.3.1 : https://stackoverflow.com/questions/54994508/find-generate-npmjs-integrity-for-bootstrap-4-3-1 <br />
 
 **_Bootstrap articles_**
 The spacing classes in Bootstrap 4 : https://www.jquery-az.com/bootstrap-margin-padding-classes-spacing-explained-5-examples/ <br />
