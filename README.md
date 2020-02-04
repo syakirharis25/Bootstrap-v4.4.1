@@ -46,6 +46,7 @@ https://getbootstrap.com/docs/4.0/utilities/sizing/ <br />
 Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/text/ <br />
 Bootstrap Flex by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/flex/ <br />
 Bootstrap Cards by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/card/ <br />
+Bootstrap Shadows by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/shadows/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
