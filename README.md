@@ -133,10 +133,10 @@ The Bootstrap 4 has built-in utility responsive classes for margin and padding t
 The classes are named using the format; <br />
 
 For extra small devices i.e. xs: <br />
-`{property}{sides}-{size}` <br />
+`{property}{sides}-{size/length}` <br />
 
 For other devices/viewports [small (sm), medium (md), large (lg), and extra large (xl) ]: <br />
-`{property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl` <br /><br />
+`{property}{sides}-{breakpoint}-{size/length} for sm, md, lg, and xl` <br /><br />
 
 Where property is one of: <br />
 ```
@@ -160,9 +160,9 @@ For example;
 
 <img src="x-y axis.jpg" height="200"> <br />
 
-**px-5** means {**p**adding}{positive(+)**x**-axis}**-**{size-of-**5**} <br />
+**px-5** means {**p**adding}{positive(+)**x**-axis}**-**{length-of-**5**} <br />
 
-**py-2** means {**p**adding}{positive(+)**y**-axis}**-**{size-of-**5**} <br />
+**py-2** means {**p**adding}{positive(+)**y**-axis}**-**{length-of-**2**} <br />
 
 For better understanding what is x-axis and y-axis, refer to this YouTube video with the title `What are the X and Y axes?` made by **_Don't Memorise_** : https://www.youtube.com/watch?v=Tfm49rgvvDU
 
