@@ -158,7 +158,7 @@ blank - for classes that set a margin or padding on all 4 sides of the element
 For example;
 **pt-4** means {**p**adding}{**t**op}**-**{size-of-**4**} <br />
 
-<img src="bootstrap.png" height="150"> <br />
+<img src="x-y axis.jpg" height="200"> <br />
 
 **px-5** means {**p**adding}{positive(+)**x**-axis}**-**{size-of-**5**} <br />
 
