@@ -127,21 +127,21 @@ Then refresh your bootstrap file on your browser to see whether it is working or
 ## 5. The spacing classes in Bootstrap v4.4.1 .
 The Bootstrap 4 has built-in utility responsive classes for margin and padding that you may use easily in various elements to manage the spacing.<br />
 
-The classes are named using the format; <br /><br />
+The classes are named using the format; <br />
 
-For extra small devices i.e. xs:
-`{property}{sides}-{size}` <br /><br />
+For extra small devices i.e. xs: <br />
+`{property}{sides}-{size}` <br />
 
-For other devices/viewports [small (sm), medium (md), large (lg), and extra large (xl) ]:
+For other devices/viewports [small (sm), medium (md), large (lg), and extra large (xl) ]: <br />
 `{property}{sides}-{breakpoint}-{size} for sm, md, lg, and xl` <br /><br />
 
-Where property is one of:
+Where property is one of: <br />
 ```
 m - for classes that set margin
 p - for classes that set padding
 ```
 
-Where sides is one of:
+Where sides is one of: <br />
 ```
 t - for classes that set margin-top or padding-top
 b - for classes that set margin-bottom or padding-bottom
@@ -152,9 +152,9 @@ y - for classes that set both *-top and *-bottom
 blank - for classes that set a margin or padding on all 4 sides of the element
 ```
 
-For example, **pt-4** means {**p**adding}{**t**op}-{size-of-**4**}
+For example, **pt-4** means {**p**adding}{**t**op}-{size-of-**4**} <br />
 
-The size can be from value 0 to 5 and auto.
+The size can be from value 0 to 5 and auto. <br />
 
 <a name="github"></a>
 ## 6. GitHub notes.
