@@ -11,3 +11,17 @@ $(window).scroll(function () {
         navbar.removeClass("sticky");
     }
 });
+
+// Conunter Animation
+
+let nCount = function (selector) {
+    $(selector).each(function () {
+
+        $(this).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 4000
+        })
+
+    });
+};
