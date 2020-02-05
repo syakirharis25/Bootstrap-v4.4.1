@@ -26,7 +26,7 @@ Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
 **_Bootstrap related online open sources_** <br />
-JQuery CDN : https://code.jquery.com/ <br />
+JQuery CDN : https://code.jquery.com <br />
 jQuery 3.x minified : https://code.jquery.com/jquery-3.4.1.min.js <br />
 lorem ipsum : https://loremipsum.io <br />
 Font Awesome : https://fontawesome.com <br />
