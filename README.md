@@ -22,7 +22,7 @@ The most prominent components of Bootstrap are its layout components, as they af
 
 <a name="references"></a>
 ## 2. Official references websites.
-[adjustable](http://google.com "Giiidd"){:target="_blank"} <br />
+<a href="http://www.google.com" target="blank">google</a> <br />
 Official Bootstrap website : https://getbootstrap.com <br />
 Official Bootstrap documentation : https://getbootstrap.com/docs/4.4/getting-started/introduction/ <br />
 
