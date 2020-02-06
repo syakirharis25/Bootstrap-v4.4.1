@@ -44,8 +44,8 @@ Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities
 Bootstrap Navbar by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/navbar/ <br />
 Bootstrap Utilities for layout by getbootstrap.com : https://getbootstrap.com/docs/4.4/layout/utilities-for-layout/#margin-and-padding
 <br />
-Bootstrap Sizing by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/spacing/ <br />
-https://getbootstrap.com/docs/4.0/utilities/sizing/ <br />
+Bootstrap Spacing by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/spacing/ <br />
+Bootstrap Sizing by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/sizing/ <br />
 Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/text/ <br />
 Bootstrap Flex by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/flex/ <br />
 Bootstrap Cards by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/card/ <br />
