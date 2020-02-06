@@ -56,7 +56,8 @@ Bootstrap Forms property by getbootstrap.com : https://getbootstrap.com/docs/4.0
 Bootstrap Input group property by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/input-group/ <br />
 Bootstrap Borders property by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/borders/ <br />
 Bootstrap Popovers by getbootstrap.com : https://getbootstrap.com/docs/4.1/components/popovers/ <br />
-Bootstrap  Alerts by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/alerts/ <br />
+Bootstrap Alerts by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/alerts/ <br />
+Bootstrap Theming Bootstrap by getbootstrap.com : https://getbootstrap.com/docs/4.4/getting-started/theming/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
