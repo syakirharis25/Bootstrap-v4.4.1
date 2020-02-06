@@ -60,6 +60,7 @@ Bootstrap Alerts by getbootstrap.com : https://getbootstrap.com/docs/4.4/compone
 Bootstrap Theming Bootstrap by getbootstrap.com : https://getbootstrap.com/docs/4.4/getting-started/theming/ <br />
 Bootstrap Overview by getbootstrap.com : https://getbootstrap.com/docs/4.4/layout/overview/#containers <br />
 Bootstrap Typography by getbootstrap.com : https://getbootstrap.com/docs/4.4/content/typography/ <br />
+Bootstrap Migrating to v4 by getbootstrap.com : https://getbootstrap.com/docs/4.4/migration/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
