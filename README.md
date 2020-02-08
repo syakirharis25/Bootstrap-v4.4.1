@@ -39,23 +39,23 @@ W3Schools Online Web Tutorials : https://www.w3schools.com <br />
 Stack Overflow is a question and answer site : https://stackoverflow.com <br />
 
 **_Bootstrap documentation by getbootstrap.com_** <br />
-Bootstrap Grid system by getbootstrap.com : https://getbootstrap.com/docs/4.0/layout/grid/ <br />
+Bootstrap Grid system by getbootstrap.com : https://getbootstrap.com/docs/4.4/layout/grid/ <br />
 Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/text/ <br />
 Bootstrap Navbar by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/navbar/ <br />
 Bootstrap Utilities for layout by getbootstrap.com : https://getbootstrap.com/docs/4.4/layout/utilities-for-layout/#margin-and-padding
 <br />
-Bootstrap Spacing by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/spacing/ <br />
-Bootstrap Sizing by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/sizing/ <br />
+Bootstrap Spacing by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/spacing/ <br />
+Bootstrap Sizing by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/sizing/ <br />
 Bootstrap Text by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/text/ <br />
 Bootstrap Flex by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/flex/ <br />
 Bootstrap Cards by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/card/ <br />
 Bootstrap Shadows by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/shadows/ <br />
-Bootstrap Colors by getbootstrap.com : https://getbootstrap.com/docs/4.3/utilities/colors/ <br />
-Bootstrap Display property by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/display/ <br />
-Bootstrap Forms property by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/forms/ <br />
-Bootstrap Input group property by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/input-group/ <br />
-Bootstrap Borders property by getbootstrap.com : https://getbootstrap.com/docs/4.0/utilities/borders/ <br />
-Bootstrap Popovers by getbootstrap.com : https://getbootstrap.com/docs/4.1/components/popovers/ <br />
+Bootstrap Colors by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/colors/ <br />
+Bootstrap Display property by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/display/ <br />
+Bootstrap Forms property by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/forms/ <br />
+Bootstrap Input group property by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/input-group/ <br />
+Bootstrap Borders property by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/borders/ <br />
+Bootstrap Popovers by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/popovers/ <br />
 Bootstrap Alerts by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/alerts/ <br />
 Bootstrap Theming Bootstrap by getbootstrap.com : https://getbootstrap.com/docs/4.4/getting-started/theming/ <br />
 Bootstrap Overview by getbootstrap.com : https://getbootstrap.com/docs/4.4/layout/overview/#containers <br />
@@ -64,8 +64,8 @@ Bootstrap Migrating to v4 by getbootstrap.com : https://getbootstrap.com/docs/4.
 Bootstrap Blockquotes by getbootstrap.com : https://getbootstrap.com/docs/4.4/content/typography/#blockquotes <br />
 Bootstrap Jumbotron by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/jumbotron/ <br />
 Bootstrap Buttons by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/buttons/ <br />
-Bootstrap Images by getbootstrap.com : https://getbootstrap.com/docs/4.0/content/images/ <br />
-Bootstrap Collapse by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/collapse/ <br />
+Bootstrap Images by getbootstrap.com : https://getbootstrap.com/docs/4.4/content/images/ <br />
+Bootstrap Collapse by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/collapse/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
