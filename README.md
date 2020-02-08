@@ -31,7 +31,7 @@ jQuery 3.x minified : https://code.jquery.com/jquery-3.4.1.min.js <br />
 lorem ipsum : https://loremipsum.io <br />
 Font Awesome : https://fontawesome.com <br />
 Google Fonts : https://fonts.google.com <br />
-Flaticon vector icons : https://www.flaticon.com/ <br />
+Icon8 icons : https://icons8.com
 
 **_Bootstrap text editor_** <br />
 Visual Studio Code by Microsoft : https://code.visualstudio.com <br />
