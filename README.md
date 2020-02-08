@@ -65,6 +65,7 @@ Bootstrap Blockquotes by getbootstrap.com : https://getbootstrap.com/docs/4.4/co
 Bootstrap Jumbotron by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/jumbotron/ <br />
 Bootstrap Buttons by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/buttons/ <br />
 Bootstrap Images by getbootstrap.com : https://getbootstrap.com/docs/4.0/content/images/ <br />
+Bootstrap Collapse by getbootstrap.com : https://getbootstrap.com/docs/4.0/components/collapse/ <br />
 
 **_Bootstrap documentation by w3schools.com_** <br />
 Bootstrap Grid System by w3schools.com : https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp <br />
