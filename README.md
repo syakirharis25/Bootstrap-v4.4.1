@@ -54,8 +54,8 @@ Bootstrap Shadows by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilit
 Bootstrap Colors by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/colors/ <br />
 Bootstrap Display property by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/display/ <br />
 Bootstrap Forms property by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/forms/ <br />
-Bootstrap Input group property by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/input-group/ <br />
-Bootstrap Borders property by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/borders/ <br />
+Bootstrap Input group by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/input-group/ <br />
+Bootstrap Borders by getbootstrap.com : https://getbootstrap.com/docs/4.4/utilities/borders/ <br />
 Bootstrap Popovers by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/popovers/ <br />
 Bootstrap Alerts by getbootstrap.com : https://getbootstrap.com/docs/4.4/components/alerts/ <br />
 Bootstrap Theming Bootstrap by getbootstrap.com : https://getbootstrap.com/docs/4.4/getting-started/theming/ <br />
