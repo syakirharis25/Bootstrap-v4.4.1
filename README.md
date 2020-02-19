@@ -8,6 +8,7 @@ My works related to Bootstrap v4.4.1
 4. [Using Bootstrap in offline mode.](#offline)
 5. [The spacing classes in Bootstrap v4.4.1 .](#spacing)
 6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -208,3 +209,19 @@ $ cd Bootstrap-v4.4.1/
 $ git remote -v
 $ git status
 ```
+<a name="calculation"></a>
+## 7. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+CSS                             11           1633             59          13693
+JavaScript                       6           2034           1728           7997
+HTML                            22            204             87           1734
+Markdown                         2             45              0            169
+JSON                             2              0              0             40
+-------------------------------------------------------------------------------
+SUM:                            43           3916           1874          23633
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
