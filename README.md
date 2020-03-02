@@ -7,8 +7,9 @@ My works related to Bootstrap v4.4.1
 3. [Bootstrap starter index.html page.](#starter)
 4. [Using Bootstrap in offline mode.](#offline)
 5. [The spacing classes in Bootstrap v4.4.1 .](#spacing)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+6. [Bootstrap developers.](#developers)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -84,10 +85,6 @@ Automatically add copyright banner in VS Code : https://stackoverflow.com/questi
 **_Bootstrap related articles_**
 The spacing classes in Bootstrap 4 : https://www.jquery-az.com/bootstrap-margin-padding-classes-spacing-explained-5-examples/ <br />
 Sizing Icons by Font Awesome : https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons <br />
-
-**_Bootstrap developers_** <br />
-Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
-Bootstrap was developed by Jacob Thornton : https://github.com/fat <br />
 
 <a name="starter"></a>
 ## 3. Bootstrap starter index.html page.
@@ -200,8 +197,13 @@ For better understanding what is x-axis and y-axis, refer to this YouTube video 
 
 The size can be from value 0 to 5 and auto. <br />
 
+<a name="developers"></a>
+## 6. Bootstrap developers.
+Bootstrap was developed by Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com <br />
+Bootstrap was developed by Jacob Thornton : https://github.com/fat <br />
+
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Bootstrap-v4.4.1.git
@@ -210,7 +212,7 @@ $ git remote -v
 $ git status
 ```
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
